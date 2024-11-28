@@ -2,3 +2,17 @@ h1{
     font-size: 5rem;
     color: blue;
 }
+
+.my-btns{
+    display: flex;
+}
+
+.my-btns > button{
+    margin-right: 1rem;
+    padding: 1rem 2rem;
+    border: none;
+    background-color: red;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
