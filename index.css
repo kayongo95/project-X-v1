@@ -16,3 +16,7 @@ h1{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
+h5{
+    text-decoration: line-through;
+}
